@@ -14,9 +14,10 @@
 # define FT_PRINTF_H
 # include <unistd.h>
 # include <stdlib.h>
+# include <stdarg.h>
 # include "libft/libft.h"
 
-//# define BUFF_SIZE 8
+# define BUFF_SIZE 8
 
 
 #endif
